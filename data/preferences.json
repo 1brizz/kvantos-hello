@@ -1,0 +1,14 @@
+{
+    "default_locale": "en",
+    "autostart_path": "~/.config/autostart/kvantos-hello.desktop",
+    "data_path": "/usr/share/kvantos-hello/data/",
+    "desktop_path": "/usr/share/applications/kvantos-hello.desktop",
+    "installer_path": "/usr/bin/calamares",
+    "live_path": "/run/archiso",
+    "logo_path": "/usr/share/icons/hicolor/scalable/apps/",
+    "save_path": "~/.config/kvantos-hello.json",
+    "urls": {
+        "development": "https://github.com/YOUR_NICK/kvantos",
+        "involved": "https://www.gnu.org/licenses/gpl-3.0.html"
+    }
+}

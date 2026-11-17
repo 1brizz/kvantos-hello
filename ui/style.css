@@ -1,0 +1,32 @@
+window {
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    background-image: url("file:///usr/share/wallpapers/kvantos/aurora-minimal.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#tweaksBrowserpage button,
+#troubleshootingpage button
+{
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#appBrowserpage button {
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.homepage button {
+    transition: border 100ms ease-in-out;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.aboutdialog {
+    border-radius: 7px;
+}
